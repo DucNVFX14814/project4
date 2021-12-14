@@ -1,0 +1,27 @@
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+    .banner-desktop {
+        display: none;
+    }
+    #banner h1 {
+        position: absolute;
+        top: 8%;
+        left: 50px;
+        right: 50px;
+        color: blueviolet;
+        font-size: 48px;
+    }
+    #banner p {
+        position: absolute;
+        top: 62%;
+        left: 90px;
+        right: 90px;
+        color: yellow;
+        font-size: 24px;
+    }
+    #banner img {
+        margin-top: -64px;
+    }
+    aside {
+        background-color: #f5f5f5;
+    }
+}
