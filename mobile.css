@@ -2,6 +2,9 @@
     .banner-desktop {
         display: none;
     }
+    #banner h1 {
+        display: none;
+    }
     #banner img {
         margin-top: -31px;
     }

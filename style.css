@@ -3,6 +3,18 @@
     box-sizing: border-box;
 }
 
+#banner {
+    position: relative;
+}
+
+#banner h1 {
+    position: absolute;
+    top: 6%;
+    left: 15%;
+    font-size: 54px;
+    font-weight: bolder;
+}
+
 #banner img {
     width: 100%;
     height: auto;
